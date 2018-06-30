@@ -67,8 +67,7 @@ public class person {
 ```
 
 - 클래스 다이어그램 표현 예시 및 작성법
-![예제2](./image/예시2.png)
-
+![예제2](./image/예시2.PNG)
 ![예제3](./image/예시3.png)
 
 - Class 표기 시, 3가지 부분으로 나뉘어진다.
